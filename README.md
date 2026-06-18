@@ -6,11 +6,12 @@ For each N (a Loeschian number from 1 to 21), tiles are colored so same-color ti
 
 ## Usage
 
-Open `hex-tiling.html` in any browser — no build step, no dependencies.
+Open `index.html` in any browser — no build step, no dependencies.
 
 ## Live Demo
 
-[jethrolam.github.io/hex-tiling](https://jethrolam.github.io/hex-tiling/hex-tiling.html)
+- [hex-tiling.vercel.app](https://hex-tiling.vercel.app)
+- [jethrolam.github.io/hex-tiling](https://jethrolam.github.io/hex-tiling/)
 
 ## Author
 
